@@ -1,0 +1,58 @@
+body {
+	padding: 70px;
+	background-color: green;
+}
+
+.header {
+	border-style: double;
+	background-color: blue;
+	width: 230px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+
+	text-align: center;
+	font-weight: bold;
+	font-family: Arial; 
+	font-size: 25px;
+	color: white;
+
+}
+
+.instructions {
+	background-color: gray; 
+	width: 520px; 
+	padding: 25px;
+	margin-bottom: 10px; 
+
+}
+
+
+.random {
+	float: left;
+	padding-right: 50px;
+	
+}
+
+.score {
+	float: left;
+	padding-left: 20px;
+	
+}
+
+.button {
+	clear: both;
+	margin-top: 60px; 
+
+}
+
+
+.totalScore {
+	background-color: blue; 
+	font-size: large;
+	font-weight: bold;
+
+	width: 230px;
+	padding: 10px;
+	color: white; 
+}
+
